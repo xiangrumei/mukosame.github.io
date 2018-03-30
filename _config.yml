@@ -1,14 +1,11 @@
 auto: true
 
-markdown: rdiscount
-
+#markdown: rdiscount
 highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
-name: “xiangrumei's Blog”
-title: xiangrumei's blog
-description: Everything about xiangrumei.
-url: http://xiangrumei.github.io
+title: Hyper Hamster
+url: http://mukosame.github.io
 feed: /atom.xml
-author_info: <a href="http://xiangrumei.github.io/">xiangrumei</a>
+author_info: <a href="http://mukosame.github.io/">Mukosame</a>
