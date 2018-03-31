@@ -11,7 +11,6 @@ layout: home
         </ul>
 
         <div class="cate-bar"><span id="cateBar">
-        xiangrumei@gmail.com
         </span></div>
 
         <ul class="artical-list">
