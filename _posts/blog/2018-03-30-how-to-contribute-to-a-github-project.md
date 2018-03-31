@@ -7,10 +7,10 @@ description: 如何给GitHub项目贡献代码
 给GitHub项目贡献代码，首先需要了解git基本命令，其次是需要在GitHub上注册一个账号。
 
 在GitHub上注册了账号后，登录，然后查找想要贡献的repository，查到后点project主界面右上角的fork按钮。
-![](images/2018-03-30-fork.png?raw=true)
+![](images/2018-03-30-fork.png)
 
 等待fork完毕后，回到自己的GitHub账号下，可以看到被fork的repository，进入自己账号想刚fork的project，可以复制project的地址，分为https和git两种地址。
-![](images/2018-03-30-clone.png?raw=true)
+![](images/2018-03-30-clone.png)
 
 点击复制可以进行地址复制，然后在本地调出git bash命令框进行复制。复制完后进入项目目录中。
 ```
@@ -52,7 +52,7 @@ git push origin master
 
 到这一步，本地开发的新代码就已经合入到自己远端的git库了，并且还做了冲突防护和新增代码合入。
 最后一步，到源库创建PR，将自己库的分支合入到源库分支，也就是完成代码真正意义上的合入（贡献）。具体做法是到源库，点击pull request，创建一个新的PR，点击compare cross fork。
-![](images/2018-03-30-pr.png?raw=true)
+![](images/2018-03-30-pr.png)
 
 点击create后，就等待自己的PR被管理员合入。
 
