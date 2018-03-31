@@ -5,12 +5,14 @@ layout: home
 <div class="index-content project">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Blog</span></a></li>
-            <li style="text-align:center"><a href="/dump"><span>Dump</span></a></li>
-            <li class="on" style="text-align:right"><a href="/project"><span>Project</span></a></li>
+            <li><a href="/"><span>技术文章</span></a></li>
+            <li style="text-align:center"><a href="/dump"><span>照片日志</span></a></li>
+            <li class="on" style="text-align:right"><a href="/project"><span>About Me</span></a></li>
         </ul>
 
-        <div class="cate-bar"><span id="cateBar"></span></div>
+        <div class="cate-bar"><span id="cateBar">
+        xiangrumei@gmail.com
+        </span></div>
 
         <ul class="artical-list">
         {% for post in site.categories.project %}
