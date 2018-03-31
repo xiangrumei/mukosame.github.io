@@ -7,10 +7,10 @@ description: 如何给GitHub项目贡献代码
 给GitHub项目贡献代码，首先需要了解git基本命令，其次是需要在GitHub上注册一个账号。
 
 在GitHub上注册了账号后，登录，然后查找想要贡献的repository，查到后点project主界面右上角的fork按钮。
-![alt text](images/2018-03-30-fork.png "fork")
+![fork](xiangrumei.github.io/_posts/blog/images/2018-03-30-fork.png)
 
 等待fork完毕后，回到自己的GitHub账号下，可以看到被fork的repository，进入自己账号想刚fork的project，可以复制project的地址，分为https和git两种地址。
-![alt text](images/2018-03-30-clone.png "git clone")
+![clone](xiangrumei.github.io/_posts/blog/images/2018-03-30-clone.png)
 
 点击复制可以进行地址复制，然后在本地调出git bash命令框进行复制。复制完后进入项目目录中。
 ```
