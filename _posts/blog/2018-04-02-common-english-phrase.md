@@ -6,9 +6,8 @@ description: 常见英文缩写
 ---
 
 
-## Common English Phrase
 
-| keywords | descriptions |
+| **keywords** | **descriptions** |
 | :--- | :--- |
 | ASAP | As Soon As Possible (尽快) |
 | FYI | For Your Information (信息供你参考) |
