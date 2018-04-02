@@ -5,9 +5,9 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on"><a href="/"><span>技术文章</span></a></li>
-            <li style="text-align:center"><a href="/dump"><span>照片日志</span></a></li>
-            <li style="text-align:right"><a href="/project"><span>About Me</span></a></li>
+            <li class="on"><a href="/"><span>Blog</span></a></li>
+            <li style="text-align:center"><a href="/dump"><span>Photo</span></a></li>
+            <li style="text-align:right"><a href="/project"><span>About</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
