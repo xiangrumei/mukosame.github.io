@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      常见英文缩写
-category: dump
+category: blog
 description: 常见英文缩写
 ---
 
-| **keywords** | **descriptions** |
+| keywords | descriptions |
 | :------ | :------ |
 | ASAP | As Soon As Possible (尽快) |
 | FYI | For Your Information (信息供你参考) |
