@@ -6,7 +6,7 @@ description: 常见英文缩写
 ---
 
 | keywords | descriptions |
-| :------ | :------ |
+| :--- | :--- |
 | ASAP | As Soon As Possible (尽快) |
 | FYI | For Your Information (信息供你参考) |
 | BTW | By The Way (顺便说一句) |
