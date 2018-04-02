@@ -7,6 +7,7 @@ description: 常见英文缩写
 
 
 ----
+
 | keywords | descriptions |
 | :--- | :--- |
 | ASAP | As Soon As Possible (尽快) |
